@@ -13,7 +13,7 @@ public class Hooks {
     public void setUp() {
         // Configuração do WebDriver
         driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(java.time.Duration.ofMillis(8000));
+        driver.manage().timeouts().implicitlyWait(java.time.Duration.ofMillis(6000));
     }
 
     @After

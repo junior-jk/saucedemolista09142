@@ -1,0 +1,9 @@
+pages\LoginPage.class
+pages\PaginaDoCarrinho.class
+pages\PaginaDeCheckout.class
+stepsPO\Runner.class
+pages\PaginaDeConfirmacao.class
+pages\PaginaDeInventario.class
+stepsPO\ComprarProdutoPO.class
+hooks\Hooks.class
+pages\Base.class

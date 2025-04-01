@@ -1,9 +1,9 @@
+C:\Iterasys\saucedemolista09142\src\test\java\hooks\Hooks.java
 C:\Iterasys\saucedemolista09142\src\test\java\pages\Base.java
-C:\Iterasys\saucedemolista09142\src\test\java\pages\CartPage.java
-C:\Iterasys\saucedemolista09142\src\test\java\pages\CheckoutPage.java
-C:\Iterasys\saucedemolista09142\src\test\java\pages\ConfirmationPage.java
-C:\Iterasys\saucedemolista09142\src\test\java\pages\InventoryPage.java
 C:\Iterasys\saucedemolista09142\src\test\java\pages\LoginPage.java
+C:\Iterasys\saucedemolista09142\src\test\java\pages\PaginaDeCheckout.java
+C:\Iterasys\saucedemolista09142\src\test\java\pages\PaginaDeConfirmacao.java
+C:\Iterasys\saucedemolista09142\src\test\java\pages\PaginaDeInventario.java
+C:\Iterasys\saucedemolista09142\src\test\java\pages\PaginaDoCarrinho.java
 C:\Iterasys\saucedemolista09142\src\test\java\stepsPO\ComprarProdutoPO.java
-C:\Iterasys\saucedemolista09142\src\test\java\stepsPO\Hooks.java
 C:\Iterasys\saucedemolista09142\src\test\java\stepsPO\Runner.java
